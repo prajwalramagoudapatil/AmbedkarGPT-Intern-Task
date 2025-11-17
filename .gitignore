@@ -1,0 +1,19 @@
+# Python venv
+venv/
+.env/
+
+# ChromaDB local vector store
+chroma_store/
+chroma_db/
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
