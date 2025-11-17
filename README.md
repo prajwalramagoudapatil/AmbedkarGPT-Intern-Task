@@ -4,7 +4,7 @@ RAG application using LangChain | Ollama | mistral | HaggingFace | ChromaDB
 ---
 
 
-# **AmbedkarGPT – RAG Q&A System (Intern Assignment)**
+# **AmbedkarGPT – RAG Q&A System**
 
 A simple **Retrieval-Augmented Generation (RAG)** pipeline built as part of the **AI Intern Hiring Assignment** for Kalpit Pvt Ltd (UK).
 The system loads a speech by **Dr. B. R. Ambedkar**, splits it into chunks, creates embeddings, stores them locally using **ChromaDB**, retrieves relevant chunks, and generates answers using **Ollama (Mistral 7B)**.
