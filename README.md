@@ -32,6 +32,7 @@ The system loads a speech by **Dr. B. R. Ambedkar**, splits it into chunks, crea
 ```
 AmbedkarGPT-Intern-Task/
 │── main.py
+│── vectordb.py
 │── requirements.txt
 │── README.md
 │── speech.txt
