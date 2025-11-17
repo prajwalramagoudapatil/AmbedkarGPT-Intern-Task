@@ -1,9 +1,5 @@
 # AmbedkarGPT-Intern-Task
-RAG application using langchain, Ollama, mistral, HaggingFace, 
-Here is a **clean, professional, interview-ready `README.md`** specifically tailored for your **AmbedkarGPT-Intern-Task**.
-This includes **setup, installation, how to run**, and covers the exact requirements mentioned in the assignment.
-
-You can copy–paste this directly into your repository.
+RAG application using LangChain | Ollama | mistral | HaggingFace | ChromaDB
 
 ---
 
@@ -128,13 +124,6 @@ You will see:
 AmbedkarGPT — Ask any question (type 'exit' to quit):
 ```
 
-Example:
-
-```
-You: What is the real enemy according to the speech?
-Answer: The real enemy is the belief in the shastras.
-```
-
 ---
 
 # 🧪 **6. Example Questions to Try**
@@ -151,9 +140,8 @@ All answers must come **only from speech.txt**, enforced by the RAG prompt.
 
 ```
 venv/
-chroma_store/
+chroma_db/
 __pycache__/
-*.pyc
 ```
 
 This ensures unnecessary local files are not pushed to GitHub.
@@ -175,10 +163,3 @@ Developed for:
 Based on the excerpt from: **Annihilation of Caste – Dr. B. R. Ambedkar**
 
 ---
-
-If you want, I can also produce:
-
-✅ A professional-looking **main.py**
-✅ A polished **requirements.txt**
-✅ A stronger prompt for correction
-Just tell me!
