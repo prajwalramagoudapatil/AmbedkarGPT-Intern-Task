@@ -3,7 +3,6 @@ RAG application using LangChain | Ollama | mistral | HaggingFace | ChromaDB
 
 ---
 
-# 📄 **README.md**
 
 # **AmbedkarGPT – RAG Q&A System (Intern Assignment)**
 
